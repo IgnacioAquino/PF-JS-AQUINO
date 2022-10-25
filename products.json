@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "MONITOR LG 19'",
+        "descripcion": "MONITOR LG 19'",
+        "img": "../img/monitorlg19.jpg",
+        "precioLista": 49.949
+        
+    },
+
+    {
+        "id": 2,
+        "name": "MONITOR LG 20'",
+        "descripcion": "MONITOR LG 20'",
+        "img": "../img/lgmonitor20.jpg",
+        "precioLista": 58.049
+        
+    },
+
+    {
+        "id": 3,
+        "name": "MONITOR LG 22'",
+        "descripcion": "MONITOR LG 22'",
+        "img": "../img/lgmonitor22.jpg",
+        "precioLista": 64.799
+        
+    },
+
+    {
+        "id": 4,
+        "name": "MONITOR LG 27'",
+        "descripcion": "MONITOR LG 27'",
+        "img": "../img/lgmonitor27.jpg",
+        "precioLista": 80.999
+        
+    },
+
+    {
+        "id": 5,
+        "name": "NOTEBOOK LENOVO S340-15API",
+        "descripcion": "PANTALLA 15.6' HD, RAM 8GB, AMD RYZEN 3",
+        "img": "../img/lenovos340.jpg",
+        "precioLista": 163.079
+        
+    },
+
+    {
+        "id": 6,
+        "name": "LENOVO NOTEBOOK IP 3 15IIL05 I3",
+        "descripcion": "PANTALLA 14.6' HD, RAM 4GB, INTEL 3",
+        "img": "../img/lenovoip315.jpg",
+        "precioLista": 176.849
+        
+    },
+
+    {
+        "id": 7,
+        "name": "LENOVO NOTEBOOK IP 3 14ARE05 R3",
+        "descripcion": "PANTALLA 14' HD, RAM 8GB, AMD RYZEN 3",
+        "img": "../img/lenovoip314.jpg",
+        "precioLista": 169.964
+        
+    },
+
+    {
+        "id": 8,
+        "name": "PHILIPS LED TV 75'",
+        "descripcion": "ANDROID UHD 4K USB HDMI SINTONIZADOR TDA",
+        "img": "../img/philips.jpg",
+        "precioLista": 334.799
+        
+    },
+
+    {
+        "id": 9,
+        "name": "LG OLED TV 65'",
+        "descripcion": "SMART TV 4K UHD IPS HDR HDMI USB TDA",
+        "img": "../img/lg.jpg",
+        "precioLista": 481.299
+        
+    }
+]
